@@ -1,0 +1,6 @@
+{
+  "name": "Synapse",
+  "description": "A high-performance AI chat interface with real-time reasoning, search, and multimodal capabilities.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
