@@ -48,7 +48,7 @@ Synapse is built with a "Security-First" approach:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/synapse.git
+   git clone https://github.com/farhanahmedpk/synapse.git
    cd synapse
    ```
 
